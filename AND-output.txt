@@ -1,0 +1,4 @@
+Resultado: -1.0 AND -1.0 is equal to [           0.004]
+Resultado: -1.0 AND 1.0 is equal to [           0.007]
+Resultado: 1.0 AND -1.0 is equal to [           0.007]
+Resultado: 1.0 AND 1.0 is equal to [           0.989]

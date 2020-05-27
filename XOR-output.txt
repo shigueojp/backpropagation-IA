@@ -1,0 +1,4 @@
+Resultado: -1.0 XOR -1.0 is equal to [           0.015]
+Resultado: -1.0 XOR 1.0 is equal to [           0.985]
+Resultado: 1.0 XOR -1.0 is equal to [           0.985]
+Resultado: 1.0 XOR 1.0 is equal to [           0.015]

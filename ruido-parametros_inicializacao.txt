@@ -1,0 +1,5 @@
+Numero de nos na camada inputs: 63
+Numero de nos na camada escondia: [2]
+Numero de nos na camada output: 7
+Numero de epocas: 50000
+Taxa de aprendizado: 0.1
