@@ -1,8 +1,6 @@
-# backpropagation-IA
-Algorítmo de rede neural Backpropagation usando XOR, OR, AND e caractéres com ruído.
 
-
-#Especificação do trabalho de IA – ENTREGA 1
+# Algorítmo de rede neural Backpropagation usando XOR, OR, AND e caractéres com ruído.
+# Especificação do trabalho de IA – ENTREGA 1
 
 
 O trabalho de Inteligência Artificial versa sobre a rede neural artificial Multilayer Perceptron e abrange a prática
@@ -12,14 +10,19 @@ treinada com o algoritmo Backpropagation em sua versão de Gradiente Descendente
 treinamento discutido em sala de aula.
 Quatro conjuntos de dados devem ser usados para treinamento e teste da entrega 1 (são seus arquivos de
 entrada):
+
 • Conjunto de dados OR
 • Conjunto de dados AND
 • Conjunto de dados XOR
 • Conjunto de dados CARACTERES (referente ao exercício explicado no livro da L. Fausset)
+
 o Este conjunto possui a versão limpa e a versão com ruído. A versão com ruído é
 adequada para usar nos testes.
+
 Em todos os arquivos, a última coluna é o rótulo do dado, as demais são atributos descritivos.
+
 Arquivos de saída úteis para o seu trabalho:
+
 • Um arquivo contendo os parâmetros da arquitetura da rede neural e parâmetros de
 inicialização.
 • Um arquivo contendo os pesos iniciais da rede.
@@ -49,7 +52,9 @@ ser construída em modo gráfico, modo texto ou apenas com gravação das saída
 em arquivos .txt ou .csv).
 • Os vídeos poderão conter, no máximo, 15 minutos de gravação.
 • Data limite para o upload dos arquivos referentes à Entrega 1: 31 de março.
+
 Entregas:
+
 a) Código desenvolvido pelo grupo: o grupo deverá fazer o upload de todos os arquivosreferentes
 à implementação da sua rede neural MLP. O código que implementa a rede neural em si
 (definição de estruturas de dados e implementação do algoritmo de treinamento e de teste da
