@@ -11,27 +11,26 @@ treinamento discutido em sala de aula.
 Quatro conjuntos de dados devem ser usados para treinamento e teste da entrega 1 (são seus arquivos de
 entrada):
 
-• Conjunto de dados OR
-• Conjunto de dados AND
-• Conjunto de dados XOR
-• Conjunto de dados CARACTERES (referente ao exercício explicado no livro da L. Fausset)
-
-o Este conjunto possui a versão limpa e a versão com ruído. A versão com ruído é
+- Conjunto de dados OR
+- Conjunto de dados AND
+- Conjunto de dados XOR
+- Conjunto de dados CARACTERES (referente ao exercício explicado no livro da L. Fausset)
+- Este conjunto possui a versão limpa e a versão com ruído. A versão com ruído é
 adequada para usar nos testes.
 
 Em todos os arquivos, a última coluna é o rótulo do dado, as demais são atributos descritivos.
 
 Arquivos de saída úteis para o seu trabalho:
 
-• Um arquivo contendo os parâmetros da arquitetura da rede neural e parâmetros de
+- Um arquivo contendo os parâmetros da arquitetura da rede neural e parâmetros de
 inicialização.
-• Um arquivo contendo os pesos iniciais da rede.
-• Um arquivo contendo os pesos finais da rede.
-• Um arquivo contendo o erro cometido pela rede neural em cada iteração do treinamento.
-• Um arquivo contendo as saídas produzidas pela rede neural para cada um dos dados de teste.=
+- Um arquivo contendo os pesos iniciais da rede.
+- Um arquivo contendo os pesos finais da rede.
+- Um arquivo contendo o erro cometido pela rede neural em cada iteração do treinamento.
+- Um arquivo contendo as saídas produzidas pela rede neural para cada um dos dados de teste.=
 Algumas regras gerais
-• Os alunos devem ser organizar em grupos de até cinco integrantes.
-• Todas as entregas deverão ser feitas via Sistema e-Disciplinas, dentro dos deadlines
+- Os alunos devem ser organizar em grupos de até cinco integrantes.
+- Todas as entregas deverão ser feitas via Sistema e-Disciplinas, dentro dos deadlines
 estabelecidos neste documento.
 o Qualquer eventual problema com o sistema e-disciplina deve ser observado com
 antecedência suficiente para que a entrega seja feita pessoalmente para a professora.
@@ -39,19 +38,19 @@ Isso significa que o grupo não deve deixar para fazer upload de arquivos no úl
 minuto possível. Preferencialmente, o upload deve ser feito com uma antecedência
 mínima de um dia. O último dia de entrega deve ser deixado para upload de arquivos
 que representam apenas ajustes finos no trabalho.
-• As implementações deverão ser feitas em linguagens baseadas em Java, C ou Python.
-• O código deve ser sempre muito bem documentado (em DETALHES) de forma que seja simples
+- As implementações deverão ser feitas em linguagens baseadas em Java, C ou Python.
+- O código deve ser sempre muito bem documentado (em DETALHES) de forma que seja simples
 identificar passagens do código que são importantes para a verificação do entendimento do
 grupo sobre a lógica que implementa uma rede neural artificial.
-• Não é permitido fazer uso de nenhuma biblioteca que implementa as funções de uma rede
+- Não é permitido fazer uso de nenhuma biblioteca que implementa as funções de uma rede
 neural artificial. Seja permitido apenas o uso de funções que implemente multiplicação de
 matrizes. 
-• Bibliotecas que implementem funções de I/O e funções de PLOT podem ser livremente usadas
+- Bibliotecas que implementem funções de I/O e funções de PLOT podem ser livremente usadas
 para implementar entrada de dados e interface para exposição de resultados (a interface pode
 ser construída em modo gráfico, modo texto ou apenas com gravação das saídas do algoritmo
 em arquivos .txt ou .csv).
-• Os vídeos poderão conter, no máximo, 15 minutos de gravação.
-• Data limite para o upload dos arquivos referentes à Entrega 1: 31 de março.
+- Os vídeos poderão conter, no máximo, 15 minutos de gravação.
+- Data limite para o upload dos arquivos referentes à Entrega 1: 31 de março.
 
 Entregas:
 
