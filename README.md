@@ -59,24 +59,31 @@ a) Código desenvolvido pelo grupo: o grupo deverá fazer o upload de todos os a
 (definição de estruturas de dados e implementação do algoritmo de treinamento e de teste da
 rede neural) deverá estar massivamente comentado. O conhecimento do grupo será avaliado
 mediante a análise do código comentado
+
 b) Vídeo de apresentação: o grupo deverá gravar um vídeo no qual apresenta sua codificação, em
 detalhes, e apresenta a execução de sua codificação sobre os conjuntos de dados de teste.
 Detalhes esperados no vídeo (listagem não exaustiva):
-a. Apresentação dos integrantes do grupo (nomes completos).
-b. Explicações sobre o código, ressaltando os detalhes que implementam as estruturas de
+
+  a.  Apresentação dos integrantes do grupo (nomes completos).
+  
+  b. Explicações sobre o código, ressaltando os detalhes que implementam as estruturas de
 dados utilizadas e a lógica de implementação do algoritmo de treino e de teste.
-c. Detalhamento das variáveis que determinam a arquitetura da rede neural artificial,
+
+  c. Detalhamento das variáveis que determinam a arquitetura da rede neural artificial,
 indicando os valores que elas assumem para um teste em um conjunto de dados dentre
 os conjuntos OR, AND e XOR e um teste no conjunto de dados CARACTERES. Usem
 ambientes de depuração, se o grupo achar conveniente para apresentar esse
 detalhamento.
+
 d. Apresentação sobre a organização dos arquivos de entrada e de saída utilizados em sua
 implementação. Mostrem os arquivos no sistema de diretórios usados, se o grupo
 achar conveniente para fazer essa apresentação.
+
 e. Demonstração da execução do treinamento da rede neural artificial. Faça uso de
 interface gráfica ou interface em modo texto para ecoar saídas intermediárias de sua
 rede neural, como por exemplo, ecoar um contador de épocas, apresentar os pesos
 iniciais e finais da rede neural, ecoar a resposta da rede neural para alguns dados de
 teste.
+
 Este documento pode ser complementado com textos que esclareçam dúvidas que os alunos podem levantar
 durante a execução do trabalho. 
